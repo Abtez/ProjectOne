@@ -1,6 +1,243 @@
+/*{
+    background: url("image/fruits-vegetables.jpg");
+
+}*/
 body{
-    background-color: white;
-    position: relative;
-    width: 750px;
-    height: 1666px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: normal;
+    color: black;
 }
+h1{
+    $font: 'Architects Daughter', sans-serif;
+    position: absolute;
+    width: 500px;
+    height: 161px;
+    margin-left: 10px;
+    margin-top: 29px;
+    font-size: 45px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+	background: linear-gradient(to bottom, #04FC1D 0%, #0D0E0D 45.83%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font: {
+		size: 20vw;
+		family: $font;
+	};
+}
+.paragraph{
+    position: absolute;
+    width: 536px;
+    height: 105px;
+    margin-left: 462px;
+    margin-top: 147px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    display: flex;
+    vertical-align: top;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.15em;
+}
+.header{
+    position: absolute;
+    width: 675px;
+    height: 35px;
+    margin-left: 752px;
+    margin-top: 37px;
+    font-family: 'Roboto';
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    display:flex;
+    justify-content: space-around;
+}
+.header>p{
+    background-color: white;
+    width:50px;
+    height: 15px;
+    border: 1px solid white;
+    margin: auto;
+}
+.header>p:hover{
+    background-color:cyan;
+    color: blueviolet;
+}
+h3{
+    position: absolute;
+    width: 367px;
+    height: 31px;
+    margin-left: 37px;
+    margin-top: 271px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.15em;
+    text-decoration-line: underline;
+    color: black;
+}
+.first>img{
+    position: absolute;
+    width: 269px;
+    height: 114px;
+    margin-left: 37px;
+    margin-top: 322px;
+}
+.first>p{
+    position: absolute;
+    width: 818px;
+    height: 131px;
+    margin-left: 362px;
+    margin-top: 333px;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.1em;
+    color: black;
+}
+.second>img{
+    position: absolute;
+    width: 269px;
+    height: 124px;
+    margin-left: 37px;
+    margin-top: 489px;
+}
+.second>p{
+    position: absolute;
+    width: 794px;
+    height: 148px;
+    margin-left: 368px;
+    margin-top: 505px;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.1em;
+}
+.third>img{
+    position: absolute;
+    width: 269px;
+    height: 116px;
+    margin-left: 37px;
+    margin-top: 664px;
+}
+.third>p{
+    position: absolute;
+    width: 582px;
+    height: 111px;
+    margin-left: 362px;
+    margin-top: 669px;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.1em;
+}
+#endnote{
+    position: absolute;
+    width: 673px;
+    height: 17px;
+    margin-left: 368px;
+    margin-top: 806px;
+    font-size: 14px;
+    line-height: 12px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #88075C;
+}
+#contacts{
+    position: absolute;
+    width: 250px;
+    height: 140px;
+    margin-left: 37px;
+    margin-top: 864px;
+    font-size: 14px;
+    line-height: 37px;
+    letter-spacing: 0.1em;
+}
+#home{
+    position: absolute;
+    width: 194px;
+    height: 115px;
+    margin-left: 662px;
+    margin-top: 861px;
+    font-size: 15px;
+    line-height: 41px;
+    text-align: center;
+    font-weight: bold;
+}
+#location{
+    position: absolute;
+    width: 190px;
+    height: 147px;
+    margin-left: 1207px;
+    margin-top: 857px;
+    font-size: 14px;
+    line-height: 37px;
+    letter-spacing: 0.1em;
+}
+.footer{
+    position: absolute;
+    width: 158px;
+    height: 21px;
+    margin-left: 658px;
+    margin-top: 999px;
+    font-family: '?????';
+    font-size: 13px;
+    line-height: 13px;
+    letter-spacing: 0.05em;
+    color:#FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

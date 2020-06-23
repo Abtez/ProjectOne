@@ -61,9 +61,9 @@ h1{
 }
 .header>p{
     background-color: white;
-    width:50px;
+    width:54px;
     height: 15px;
-    border: 1px solid white;
+    border: 2px solid white;
     margin: auto;
 }
 .header>p:hover{
@@ -148,8 +148,20 @@ h3{
     font-size: 14px;
     line-height: 12px;
     text-align: center;
+    align-items: center;
     letter-spacing: 0.04em;
     color: #88075C;
+}
+#endnote>a{
+    background-color: white;
+    width:50px;
+    height: 15px;
+    border: 1px solid white;
+    margin: auto;
+}
+#endnote>p>a:hover{
+    background-color:peru;
+    color: black;
 }
 #contacts{
     position: absolute;
@@ -174,7 +186,7 @@ h3{
 }
 #location{
     position: absolute;
-    width: 190px;
+    width: 198px;
     height: 147px;
     margin-left: 1207px;
     margin-top: 857px;

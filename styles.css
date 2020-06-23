@@ -9,7 +9,7 @@ body{
     color: black;
 }
 h1{
-    $font: 'Architects Daughter', sans-serif;
+    font-family: "Architects Daughter";
     position: absolute;
     width: 500px;
     height: 161px;
@@ -23,9 +23,7 @@ h1{
 	background: linear-gradient(to bottom, #04FC1D 0%, #0D0E0D 45.83%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-	font: {
-		size: 20vw;
-		family: $font;
+	{
 	};
 }
 .paragraph{

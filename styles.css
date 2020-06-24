@@ -1,71 +1,72 @@
 
 body{
-    position: relative;
+    background-image: url(image/fruits-vegetables.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif,'Roboto';
-    font-style: normal;
-    font-size: normal;
     color: black;
 }
+
 h1{
     font-family: "Architects Daughter";
-    position: absolute;
-    width: 500px;
-    height: 161px;
-    margin-left: 10px;
-    margin-top: 29px;
-    font-size: 45px;
+    width: 300px;
+    height: 101px;
+    margin-left: 109px;
+    margin-top: 50px;
+    font-size: px;
     line-height: 50px;
     text-align: center;
     letter-spacing: 0.1em;
-    text-transform: uppercase;
 	background: linear-gradient(to bottom, #04FC1D 0%, #0D0E0D 45.83%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	{
 	};
 }
+
 .paragraph{
-    position: absolute;
     width: 536px;
-    height: 105px;
-    margin-left: 462px;
-    margin-top: 147px;
+    height: 155px;
+    margin-left: 30px;
+    margin-top: 47px;
     font-family: 'Roboto';
     font-size: 16px;
     font-style: italic;
     font-weight: bold;
-    font-size: 16px;
-    line-height: 21px;
+    font-size: 14px;
     display: flex;
-    vertical-align: top;
     align-items: center;
     text-align: center;
-    letter-spacing: 0.15em;
+    letter-spacing: 0.12em;
 }
+
 .header{
-    position: absolute;
-    width: 675px;
+    width: 605px;
     height: 35px;
-    margin-left: 752px;
-    margin-top: 37px;
+    margin-left: px;
+    margin-top: -330px;
     font-family: 'Roboto';
     font-weight: bold;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 16px;
     display:flex;
     justify-content: space-around;
+    color: black;
 }
+
 .header>p{
     background-color:none;
-    width:54px;
+    width:68px;
     height: 15px;
-    border: 2px;
+    border: 1px;
     margin: auto;
 }
+
 .header>p:hover{
     background-color:yellowgreen;
     color: blueviolet;
 }
+
 h3{
     position: absolute;
     width: 367px;
@@ -75,79 +76,88 @@ h3{
     font-family: 'Roboto';
     font-style: italic;
     font-weight: bold;
-    font-size: 15px;
-    line-height: 21px;
+    font-size: 14px;
+    line-height:px;
     display: flex;
     align-items: center;
     letter-spacing: 0.15em;
     text-decoration-line: underline;
     color: black;
 }
+
 .first>img{
     position: absolute;
-    width: 269px;
-    height: 114px;
+    width: 209px;
+    height: 94px;
     margin-left: 37px;
     margin-top: 322px;
 }
+
 .first>p{
     position: absolute;
-    width: 818px;
+    width: 418px;
     height: 131px;
-    margin-left: 362px;
-    margin-top: 333px;
-    font-size: 13px;
-    line-height: 18px;
-    letter-spacing: 0.1em;
+    margin-left: 332px;
+    margin-top: 319px;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.07em;
     color: black;
 }
+
 .second>img{
     position: absolute;
-    width: 269px;
-    height: 124px;
+    width: 209px;
+    height: 94px;
     margin-left: 37px;
-    margin-top: 489px;
+    margin-top: 459px;
 }
+
 .second>p{
     position: absolute;
-    width: 794px;
+    width: 418px;
     height: 148px;
-    margin-left: 368px;
-    margin-top: 505px;
-    font-size: 13px;
-    line-height: 18px;
-    letter-spacing: 0.1em;
+    margin-left: 332px;
+    margin-top: 455px;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.07em;
 }
+
 .third>img{
     position: absolute;
-    width: 269px;
-    height: 116px;
+    width: 209px;
+    height: 94px;
     margin-left: 37px;
-    margin-top: 664px;
+    margin-top: 594px;
 }
+
 .third>p{
     position: absolute;
-    width: 582px;
+    width: 418px;
     height: 111px;
-    margin-left: 362px;
-    margin-top: 669px;
-    font-size: 13px;
-    line-height: 18px;
-    letter-spacing: 0.1em;
+    margin-left: 332px;
+    margin-top: 585px;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.07em;
 }
+
 #endnote{
+    font-family: sans-serif;
+    font-weight: bold;
     position: absolute;
-    width: 673px;
-    height: 17px;
-    margin-left: 368px;
-    margin-top: 806px;
-    font-size: 14px;
-    line-height: 13px;
+    width: 430px;
+    height: 19px;
+    margin-left: 317px;
+    margin-top: 726px;
+    font-size: 13px;
     text-align: center;
     align-items: center;
     letter-spacing: 0.04em;
-    color: #88075C;
+    color: #0D0E0D;
 }
+
 #endnote>a{
     background-color: white;
     width:50px;
@@ -155,54 +165,59 @@ h3{
     border: 1px solid white;
     margin: auto;
 }
+
 #endnote>p>a:hover{
     background-color:peru;
     color: black;
 }
+
 #contacts{
     position: absolute;
-    width: 250px;
-    height: 140px;
-    margin-left: 37px;
-    margin-top: 864px;
-    font-size: 14px;
-    line-height: 37px;
+    width: 230px;
+    height: 80px;
+    margin-left: 0px;
+    margin-top: 764px;
+    font-size: 13px;
+    line-height: 25px;
     letter-spacing: 0.1em;
 }
+
 #home{
     position: absolute;
     width: 194px;
     height: 115px;
-    margin-left: 662px;
-    margin-top: 861px;
-    font-size: 16px;
-    line-height: 41px;
+    margin-left: 452px;
+    margin-top: 760px;
+    font-size: 14px;
+    line-height: 35px;
     text-align: center;
     font-weight: bold;
 }
+
 #location{
+
     position: absolute;
     width: 198px;
     height: 147px;
-    margin-left: 1207px;
-    margin-top: 857px;
-    font-size: 14px;
-    line-height: 37px;
+    margin-left: 957px;
+    margin-top: 764px;
+    font-size: 13px;
+    line-height: 25px;
     letter-spacing: 0.1em;
 }
+
 .footer{
     position: absolute;
     width: 158px;
     height: 21px;
-    margin-left: 700px;
-    margin-top: 999px;
+    margin-left: 492px;
+    margin-top: 869px;
     font-family: '?????';
     font-size: 13px;
     line-height: 13px;
     letter-spacing: 0.05em;
     color:black;
 }
-
 
 
 

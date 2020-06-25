@@ -28,7 +28,7 @@ h1{
     width: 536px;
     height: 155px;
     margin-left: 30px;
-    margin-top: 47px;
+    margin-top: -72px;
     font-family: 'Roboto';
     font-size: 16px;
     font-style: italic;
@@ -44,7 +44,7 @@ h1{
     width: 605px;
     height: 35px;
     margin-left: px;
-    margin-top: -330px;
+    margin-top: -230px;
     font-family: 'Roboto';
     font-weight: bold;
     font-size: 14px;
@@ -72,7 +72,7 @@ h3{
     width: 367px;
     height: 31px;
     margin-left: 37px;
-    margin-top: 271px;
+    margin-top: 161px;
     font-family: 'Roboto';
     font-style: italic;
     font-weight: bold;
@@ -90,15 +90,15 @@ h3{
     width: 209px;
     height: 94px;
     margin-left: 37px;
-    margin-top: 322px;
+    margin-top: 212px;
 }
 
 .first>p{
     position: absolute;
-    width: 418px;
+    width: 366px;
     height: 131px;
     margin-left: 332px;
-    margin-top: 319px;
+    margin-top: 206px;
     font-size: 12px;
     line-height: 15px;
     letter-spacing: 0.07em;
@@ -110,7 +110,7 @@ h3{
     width: 209px;
     height: 94px;
     margin-left: 37px;
-    margin-top: 459px;
+    margin-top: 339px;
 }
 
 .second>p{
@@ -118,7 +118,7 @@ h3{
     width: 418px;
     height: 148px;
     margin-left: 332px;
-    margin-top: 455px;
+    margin-top: 335px;
     font-size: 12px;
     line-height: 15px;
     letter-spacing: 0.07em;
@@ -129,7 +129,7 @@ h3{
     width: 209px;
     height: 94px;
     margin-left: 37px;
-    margin-top: 594px;
+    margin-top: 469px;
 }
 
 .third>p{
@@ -137,7 +137,7 @@ h3{
     width: 418px;
     height: 111px;
     margin-left: 332px;
-    margin-top: 585px;
+    margin-top: 459px;
     font-size: 12px;
     line-height: 15px;
     letter-spacing: 0.07em;
@@ -150,7 +150,7 @@ h3{
     width: 430px;
     height: 19px;
     margin-left: 317px;
-    margin-top: 726px;
+    margin-top: 586px;
     font-size: 13px;
     text-align: center;
     align-items: center;
@@ -176,7 +176,7 @@ h3{
     width: 230px;
     height: 80px;
     margin-left: 0px;
-    margin-top: 764px;
+    margin-top: 644px;
     font-size: 13px;
     line-height: 25px;
     letter-spacing: 0.1em;
@@ -187,7 +187,7 @@ h3{
     width: 194px;
     height: 115px;
     margin-left: 452px;
-    margin-top: 760px;
+    margin-top: 635px;
     font-size: 14px;
     line-height: 35px;
     text-align: center;
@@ -200,7 +200,7 @@ h3{
     width: 198px;
     height: 147px;
     margin-left: 957px;
-    margin-top: 764px;
+    margin-top: 644px;
     font-size: 13px;
     line-height: 25px;
     letter-spacing: 0.1em;
@@ -211,7 +211,7 @@ h3{
     width: 158px;
     height: 21px;
     margin-left: 492px;
-    margin-top: 869px;
+    margin-top: 749px;
     font-family: '?????';
     font-size: 13px;
     line-height: 13px;
